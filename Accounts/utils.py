@@ -97,7 +97,7 @@ def get_doc(entry:Union[DrEntries, CrEntries]):
     if entry.purchase_return_voucher:
         return entry.purchase_return_voucher
 
-def make_ledger(data:List[dict]) -> list[dict]:
+def make_ledger(data):
     list_of_dictionaries_with_different_keys = {}
     for dictionary in data:
         key = (dictionary['account_name'], dictionary['doc'])
