@@ -13,7 +13,9 @@ from Vendors.utils import create_test_vendor
 app = FastAPI()
 
 origins = [
-    "http://localhost:5173"
+    "https://svelte-kit-production-2c2e.up.railway.app/",
+    "https://localhost:5173",
+    "https://localhost:4173",
 ]
 
 app.add_middleware(
