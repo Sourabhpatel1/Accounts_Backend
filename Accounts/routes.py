@@ -5,8 +5,6 @@ from .models import PrimaryAccounts, GroupAccountsBase, GroupAccounts, Accounts,
 from .crud import create_group_account, create_account
 from .utils import get_doc, make_ledger
 
-import pandas as pd
-
 acc_router = APIRouter(prefix="/accounts", tags=["Accounts"])
 
 
