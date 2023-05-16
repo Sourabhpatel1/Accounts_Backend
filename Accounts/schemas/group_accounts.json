@@ -1,0 +1,77 @@
+{
+    "Equities" : [
+        {
+            "id" : 10,
+            "name" : "Capital",
+            "primary_account_id" : 1
+        }
+    ],
+    "Liabilities" : [
+        {
+            "id" : 20,
+            "name" : "Long Term Liabilities",
+            "primary_account_id" : 2
+        },
+        {
+            "id" : 21,
+            "name" : "Current Liabilities",
+            "primary_account_id" : 2
+        }
+    ],
+    "Assets" : [
+        {
+            "id" : 30,
+            "name" : "Fixed Assets",
+            "primary_account_id" : 3
+        },
+        {
+            "id" : 31,
+            "name" : "Long Term Investments",
+            "primary_account_id" : 3
+        },
+        {
+            "id" : 32,
+            "name" : "Current Assets",
+            "primary_account_id" : 3
+        }
+    ],
+    "Expenses" : [
+        {
+            "id" : 40,
+            "name" : "Direct Expenses",
+            "primary_account_id" : 4
+        },
+        {
+            "id" : 41,
+            "name" : "Operating Expenses",
+            "primary_account_id" : 4
+        },
+        {
+            "id" : 42,
+            "name" : "Indirect Expenses",
+            "primary_account_id" : 4
+        },    
+        {
+            "id" : 43,
+            "name" : "Taxes Paid",
+            "primary_account_id" : 4
+        }
+    ],
+    "Revenue" : [
+        {
+            "id" : 50,
+            "name" : "Direct Revenue",
+            "primary_account_id" : 5
+        },
+        {
+            "id" : 51,
+            "name" : "Indirect Revenue",
+            "primary_account_id" : 5
+        },
+        {
+            "id" : 52,
+            "name" : "Tax Benefits",
+            "primary_account_id" : 5
+        }
+    ]
+}

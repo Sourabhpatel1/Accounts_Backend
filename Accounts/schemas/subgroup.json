@@ -1,0 +1,224 @@
+{
+    "SubGroups" : [
+        {
+            "id" : 100,
+            "name" : "Shareholders Fund",
+            "group_account_id" : 10
+        },
+        {
+            "id" : 101,
+            "name" : "Retained Earnings",
+            "group_account_id" : 10
+        },
+
+        {
+            "id" : 200,
+            "name" : "Term Loans",
+            "group_account_id" : 20
+        },
+        {
+            "id" : 201,
+            "name" : "Debentures Issued",
+            "group_account_id" : 20
+        },
+
+        {
+            "id" : 210,
+            "name" : "Accounts Payable",
+            "group_account_id" : 21
+        },
+        {
+            "id" : 211,
+            "name" : "GST (Output)",
+            "group_account_id" : 21
+        },
+        {
+            "id" : 212,
+            "name" : "IGST (Output)",
+            "group_account_id" : 21
+        },
+        {
+            "id" : 213,
+            "name" : "Divident Payable",
+            "group_account_id" : 21
+        },
+        {
+            "id" : 214,
+            "name" : "Taxes Payable",
+            "group_account_id" : 21
+        },
+
+        {
+            "id" : 300,
+            "name" : "Land and Buildings",
+            "group_account_id" : 30
+        },
+        {
+            "id" : 301,
+            "name" : "Plant and Machinary",
+            "group_account_id" : 30
+        },
+        {
+            "id" : 310,
+            "name" : "Government Bonds",
+            "group_account_id" : 31
+        },
+        {
+            "id" : 311,
+            "name" : "Debentures",
+            "group_account_id" : 31
+        },
+
+        {
+            "id" : 320,
+            "name" : "Accounts Receiveables",
+            "group_account_id" : 32
+        },
+        {
+            "id" : 321,
+            "name" : "Cash and Cash Equivalants",
+            "group_account_id" : 32
+        },
+        {
+            "id" : 322,
+            "name" : "Inventory",
+            "group_account_id" : 32
+        },
+        {
+            "id" : 323,
+            "name" : "Consumable Stores",
+            "group_account_id" : 32
+        },
+        {
+            "id" : 324,
+            "name" : "GST (Input)",
+            "group_account_id" : 32
+        },
+        {
+            "id" : 325,
+            "name" : "IGST (Input)",
+            "group_account_id" : 32
+        },
+
+        {
+            "id" : 400,
+            "name" : "Cost of Goods Sold",
+            "group_account_id" : 40
+        },
+        {
+            "id" : 401,
+            "name" : "Cost of Providing Service",
+            "group_account_id" : 40
+        },
+        {
+            "id" : 402,
+            "name" : "Manufacturing Expenses",
+            "group_account_id" : 40
+        },
+        {
+            "id" : 403,
+            "name" : "Duties on Production",
+            "group_account_id" : 40
+        },
+        {
+            "id" : 404,
+            "name" : "Wages",
+            "group_account_id" : 40
+        },
+
+        {
+            "id" : 410,
+            "name" : "Selling Cost",
+            "group_account_id" : 41
+        },
+        {
+            "id" : 411,
+            "name" : "Adminstrative Expenses",
+            "group_account_id" : 41
+        },
+        {
+            "id" : 412,
+            "name" : "Research and Development",
+            "group_account_id" : 41
+        },        
+        {
+            "id" : 413,
+            "name" : "Depriciation and Amortization",
+            "group_account_id" : 41
+        },
+
+        {
+            "id" : 420,
+            "name" : "Salaries",
+            "group_account_id" : 42
+        },
+        {
+            "id" : 421,
+            "name" : "Rent and Lease Expenses",
+            "group_account_id" : 42
+        },
+        {
+            "id" : 422,
+            "name" : "Advertising Expenses",
+            "group_account_id" : 42
+        },
+        {
+            "id" : 423,
+            "name" : "Commissions",
+            "group_account_id" : 42
+        },
+        {
+            "id" : 424,
+            "name" : "Interest Expenses",
+            "group_account_id" : 42
+        },
+        {
+            "id" : 425,
+            "name" : "Utilities Expenses",
+            "group_account_id" : 42
+        },
+
+        {
+            "id" : 430,
+            "name" : "Tax Paid on Profit",
+            "group_account_id" : 43
+        },
+        {
+            "id" : 431,
+            "name" : "Cess and Surcharge",
+            "group_account_id" : 43
+        },
+
+        {
+            "id" : 500,
+            "name" : "Revenue From Sales",
+            "group_account_id" : 50
+        },
+        {
+            "id" : 501,
+            "name" : "Revenue From Services",
+            "group_account_id" : 50
+        },
+
+        {
+            "id" : 511,
+            "name" : "Rents",
+            "group_account_id" : 51
+        },
+        {
+            "id" : 512,
+            "name" : "Interest on Investment",
+            "group_account_id" : 51
+        },
+        {
+            "id" : 513,
+            "name" : "Divident Received",
+            "group_account_id" : 51
+        },
+        {
+            "id" : 514,
+            "name" : "Other Indirect Revenues",
+            "group_account_id" : 51
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Primary" : [
+        {
+            "id" : 1,
+            "name" : "Equity"
+        },
+        {
+            "id" : 2,
+            "name" : "Liabilities"
+        },
+        {
+            "id" : 3,
+            "name" : "Assets"
+        },
+        {
+            "id" : 4,
+            "name" : "Expenses"
+        },
+        {
+            "id" : 5,
+            "name" : "Revenue"
+        }
+    ]
+}

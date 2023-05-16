@@ -1,0 +1,94 @@
+{
+    "Accounts" : [
+        {
+            "id" : 3210,
+            "name" : "Cash in Hand",
+            "sub_group_id" : 321
+        },
+        {
+            "id" : 3211,
+            "name" : "Bank Account",
+            "sub_group_id" : 321
+        },
+        {
+            "id" : 3220,
+            "name" : "Raw Materials",
+            "sub_group_id" : 322
+        },
+        {
+            "id" : 3221,
+            "name" : "Unfinished Materials",
+            "sub_group_id" : 322
+        },
+        {
+            "id" : 3222,
+            "name" : "Finished Materials",
+            "sub_group_id" : 322
+        },
+        {
+            "id" : 3230,
+            "name" : "Equipments",
+            "sub_group_id" : 323    
+        },
+        {
+            "id" : 4000,
+            "name" : "COGS Raw Materials",
+            "sub_group_id" : 400   
+        },
+        {
+            "id" : 4001,
+            "name" : "COGS Unfinished Materials",
+            "sub_group_id" : 400   
+        },
+        {
+            "id" : 4002,
+            "name" : "COGS Finished Materials",
+            "sub_group_id" : 400   
+        },
+        {
+            "id" : 4101,
+            "name" : "Discount (Sales)",
+            "sub_group_id" : 410   
+        },
+        {
+            "id" : 4102,
+            "name" : "Rounded Off (Sales)",
+            "sub_group_id" : 410   
+        },
+        {
+            "id" : 4103,
+            "name" : "Freight and Forwarding Expenses",
+            "sub_group_id" : 410   
+        },
+        {
+            "id" : 4301,
+            "name" : "Income Tax",
+            "sub_group_id" : 430
+        },
+        {
+            "id" : 5000,
+            "name" : "Sale of Finished Goods",
+            "sub_group_id" : 500
+        },
+        {
+            "id" : 5001,
+            "name" : "Sale of Unfinished Goods",
+            "sub_group_id" : 500
+        },
+        {
+            "id" : 5002,
+            "name" : "Sale of Raw Materials",
+            "sub_group_id" : 500
+        },
+        {
+            "id" : 5140,
+            "name" : "Discount (Purchase)",
+            "sub_group_id" : 514
+        },
+        {
+            "id" : 5141,
+            "name" : "Rounded Off (Purchase)",
+            "sub_group_id" : 514
+        }
+    ]
+}
